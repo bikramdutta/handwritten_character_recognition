@@ -7,7 +7,7 @@ The basic aim of this solution is to recognize handwritten text from images and 
 Kaggle dataset link:-
 https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
-## Required frameworks are
+## Required frameworks
 
 * Numpy (version 1.16.5)
 * cv2 (openCV) (version 3.4.2)
